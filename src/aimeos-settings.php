@@ -35,7 +35,7 @@ return array(
 	'resource' => array(
 		'db' => array(
 			'adapter' => 'mysql',
-			'host' => 'localhost',
+			'hostname' => 'localhost',
 			'port' => '',
 			'socket' => '',
 			'database' => 'slim',
